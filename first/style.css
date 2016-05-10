@@ -1,0 +1,26 @@
+.main-header {
+	height: 20vh;
+	width: 100%;
+	background: grey;
+	color: #fff;
+	padding-top: 25px;
+}
+
+.main-section {
+	width: 100%;
+	background: lightgrey;
+}
+
+.main-section-inner {
+	height: 100vh;
+	width: 75%;
+	background: #fff;
+	margin-left: 88px;
+}
+
+.main-footer {
+	height: 10vh;
+	width: 75%;
+	background: #000;
+	margin-left: 88px;
+}

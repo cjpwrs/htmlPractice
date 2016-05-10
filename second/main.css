@@ -1,0 +1,40 @@
+.main-body {
+	height: 100vh;
+	width: 100%;
+	background: blue;
+}
+
+.main-body-third {
+	height: 100vh;
+	background: grey;
+	width: calc(100%/3);
+	float: left;
+}
+
+#one {
+	background: #4A90E2;
+}
+
+#two {
+	background: #50E3C2;
+}
+
+#three {
+	background: #B8E986;
+	position: relative;
+	padding: 0px;
+}
+
+.img-holder {
+	height: 20vh;
+	background: #D0021B;
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+
+.img-holder h2 {
+	padding-top: 30px;
+	text-align: center;
+}

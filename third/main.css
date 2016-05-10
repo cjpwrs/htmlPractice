@@ -1,0 +1,44 @@
+.main-header {
+	height: 12vh;
+	width: 100%;
+	background: lightgrey;
+	padding-top: 10px;
+}
+
+.logo {
+	height: 65px;
+	width: 65px;
+	background: #4A90E2;
+	display: inline-block;
+	margin-left: 25px;
+	
+}
+
+.main-intro {
+	height: 20vh;
+	width: 100%;
+}
+
+.main-intro p {
+	margin: 30px;
+}
+.body-colors {
+	width: 100%;
+	height: 15vh;
+}
+
+#one {
+	background: #4A90E2;
+}
+
+#two {
+	background: #50E3C2;
+}
+
+#three {
+	background: #B8E986;
+}
+
+#four {
+	background: #F8E71C;
+}
